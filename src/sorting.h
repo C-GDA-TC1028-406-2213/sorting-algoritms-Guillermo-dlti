@@ -15,6 +15,8 @@ namespace SortingAlgorithms {
     void insertionSort(int arr[], int n);
     
     void mergeSort(int arr[], int left, int right);
+
+    void swap(int* x, int* y);
     
     void quickSort(int arr[], int low, int high);
     
